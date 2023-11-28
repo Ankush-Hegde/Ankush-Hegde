@@ -7,9 +7,11 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ankush-hegde&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankush-hegde&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-## 🏆 GitHub Trophies
+## ⚡Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ankush-hegde&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-### ✍️ Random Dev Quote
+#### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
 [![](https://visitcount.itsvg.in/api?id=Ankush-Hegde&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
