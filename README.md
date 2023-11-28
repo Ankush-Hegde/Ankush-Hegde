@@ -8,7 +8,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Ankush-hegde&theme=dark&hide_border=true&include_all_commits=true&count_private=true).
 
 # ⚡ Streaks:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ankush-hegde&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ankush-hegde&theme=dark&bg_color=auto)](https://git.io/streak-stats)
 
 # 💬 language used:
 ![My Skills](https://skillicons.dev/icons?i=html,css,javascript)
