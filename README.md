@@ -12,7 +12,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
-[![](https://visitcount.itsvg.in/api?id=Ankush-Hegde&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Ankush-Hegde&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 
 <!--
