@@ -11,8 +11,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ankush-hegde&theme=dark)](https://git.io/streak-stats)
 
 # 💬 language used:
-![My Skills](https://skillicons.dev/icons?i=py,git,github)</br>
-![](https://skillicons.dev/icons?i=py,git,github)
+![My Skills](https://skillicons.dev/icons?i=html,css,javascript)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankush-hegde&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 # 🏆 GitHub Trophies:
