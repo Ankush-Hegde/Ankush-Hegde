@@ -10,9 +10,12 @@
 # ⚡ Streaks:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ankush-hegde&theme=dark)](https://git.io/streak-stats)
 
-# 💬 language used:
+# 💬 top-language used:
 ![My Skills](https://skillicons.dev/icons?i=html,css,javascript)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankush-hegde&hide_border=true&include_all_commits=true&count_private=true&layout=compact&theme=light#gh-light-mode-only&theme=dark#gh-dark-mode-only)
+<!--
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankush-hegde&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+-->
 
 # 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Ankush-Hegde&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
