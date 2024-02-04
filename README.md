@@ -12,7 +12,7 @@
 
 # 💬 top-language used:
 ![My Skills](https://skillicons.dev/icons?i=html,css,javascript)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankush-hegde&hide_border=true&include_all_commits=true&count_private=true&layout=compact&theme=light#gh-light-mode-only&theme=dark#gh-dark-mode-only)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankush-hegde&hide_border=true&include_all_commits=true&count_private=true&layout=compact&theme=theme=dark#gh-dark-mode-only&light#gh-light-mode-only)
 <!--
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankush-hegde&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 -->
