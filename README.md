@@ -21,9 +21,21 @@
 # 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Ankush-Hegde&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
-# ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical).
----
+
+<details>
+<summary> ✍️ Random Dev Quote:</summary>
+
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</details>
+
+<details>
+<summary> ⚡ Fun fact:</summary>
+
+  ![](https://readme-jokes.vercel.app/api)
+
+</details>
+
 [![](https://visitcount.itsvg.in/api?id=Ankush-Hegde&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 
