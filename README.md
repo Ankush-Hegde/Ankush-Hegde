@@ -6,6 +6,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ankush-hegde&theme=dark&hide_border=true&include_all_commits=true&count_private=true).
+![](https://github-readme-activity-graph-mnex.vercel.app/graph?username=Ankush-Hegde&bg_color=0d1117&color=00FF00&line=32CD32&point=006400&area=true&hide_border=true&hide_title=true).
 
 # ⚡ Streaks:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ankush-hegde&theme=dark)](https://git.io/streak-stats)
