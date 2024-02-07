@@ -40,14 +40,13 @@
 </div>
 </details>
 
-<details>
-<summary> ⚡ Fun fact:</summary>
+# 🎉 Fun fact:
 <div align="center">
 
   ![](https://readme-jokes.vercel.app/api)
 
 </div>
-</details>
+
 <div align="center">
   
 [![](https://visitcount.itsvg.in/api?id=Ankush-Hegde&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
