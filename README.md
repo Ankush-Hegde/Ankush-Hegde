@@ -34,9 +34,6 @@
 # 💬 top-language used:
 ![My Skills](https://skillicons.dev/icons?i=html,css,javascript) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankush-hegde&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<!--
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankush-hegde&hide_border=true&include_all_commits=true&count_private=true&layout=compact&theme=theme=dark#gh-dark-mode-only&light#gh-light-mode-only)
--->
 <!-- top-language used end-->
 
 <!-- GitHub Trophies start-->
@@ -70,8 +67,19 @@
 </div>
 <!-- visiters count end>
 
-
-
+<!-- try -->
+<!--
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ankush-Hegde)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ankush-Hegde)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ankush-Hegde)
+![](https://readme-typing-svg.herokuapp.com/?lines=hello;typing...;)
+![](https://github-contributor-stats.vercel.app/api?username=Ankush-Hegde&limit=5&theme=dark&combine_all_yearly_contributions=true)
+-->
+<!--
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankush-hegde&hide_border=true&include_all_commits=true&count_private=true&layout=compact&theme=theme=dark#gh-dark-mode-only&light#gh-light-mode-only)
+//this is to make theam change for light and dark
+-->
+<!-- try end-->
 
 <!--
 **Ankush-Hegde/Ankush-Hegde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
