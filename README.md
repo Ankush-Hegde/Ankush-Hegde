@@ -41,11 +41,8 @@
 </details>
 
 # 🎉 Fun fact:
-<div align="center">
 
-  ![](https://readme-jokes.vercel.app/api)
-
-</div>
+![](https://readme-jokes.vercel.app/api)
 
 <div align="center">
   
