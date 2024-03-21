@@ -72,6 +72,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ankush-Hegde)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ankush-Hegde)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ankush-Hegde)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ankush-Hegde)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ankush-Hegde)
 ![](https://readme-typing-svg.herokuapp.com/?lines=hello;typing...;)
 ![](https://github-contributor-stats.vercel.app/api?username=Ankush-Hegde&limit=5&theme=dark&combine_all_yearly_contributions=true)
 -->
