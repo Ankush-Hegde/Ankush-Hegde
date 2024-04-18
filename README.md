@@ -32,7 +32,7 @@
 
 <!-- top-language used start-->
 # 💬 top-language used:
-![My Skills](https://skillicons.dev/icons?i=html,css,javascript,golang) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankush-hegde&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![My Skills](https://skillicons.dev/icons?i=html,css,javascript,golang,python) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankush-hegde&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- top-language used end-->
 
