@@ -81,6 +81,14 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankush-hegde&hide_border=true&include_all_commits=true&count_private=true&layout=compact&theme=theme=dark#gh-dark-mode-only&light#gh-light-mode-only)
 //this is to make theam change for light and dark
 -->
+<!--
+// images link
+<img src = "https://github.com/user-attachments/assets/4862263e-680c-4ccf-8d58-fc66f715660f"/> <br>
+![glitch-hacker](https://github.com/user-attachments/assets/2d602628-72f7-402a-8854-f38810f33638)
+![skull](https://github.com/user-attachments/assets/64f3dd7c-8a43-4b9e-b60c-9127a700b9f7)
+![web](https://github.com/user-attachments/assets/f5301b88-b43d-417b-bab8-c15aaf282c9c)
+![lets-code](https://github.com/user-attachments/assets/8be00884-e8d7-4ee0-96e6-0b59afe2b456)
+-->
 <!-- try end-->
 
 <!--
