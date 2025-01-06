@@ -42,7 +42,7 @@
 <!-- GitHub Trophies end-->
 
 <!-- Fun fact start-->
-# 🎉 Fun fact:
+# 🎉 Fun <img src="https://github.com/user-attachments/assets/2e710b58-8dec-4c48-8b64-6c6001279288" width = "100" height = "50"/>:
 
 ![](https://readme-jokes.vercel.app/api)
 
