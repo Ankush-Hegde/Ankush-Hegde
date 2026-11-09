@@ -10,6 +10,7 @@
 
 <!-- GitHub Stats start-->
 # 📊 GitHub Stats:
+<!-- resumed for now
 <div align="center">
   
 ![](https://github-readme-stats.vercel.app/api?username=Ankush-hegde&rank_icon=percentile&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
@@ -17,6 +18,14 @@
 </div>
 
 ![](https://github-readme-activity-graph-mnex.vercel.app/graph?username=Ankush-Hegde&bg_color=0d1117&color=00FF00&line=32CD32&point=006400&area=true&hide_border=true&hide_title=true)
+-->
+
+<!-- temp status start-->
+<div align="center">
+
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ankush-Hegde&bg_color=0d1117&color=00FF00&line=32CD32&point=006400&area=true&hide_border=true&hide_title=true)
+</div>
+<!-- temp status end-->
 
 <!-- GitHub Stats end-->
 
@@ -37,8 +46,10 @@
 <!-- top-language used end-->
 
 <!-- GitHub Trophies start-->
+<!-- resumed for now!!
 # 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=Ankush-Hegde&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Ankush-Hegde&theme=darkhub&no-frame=false&no-bg=false&margin-w=4) 
+-->
 <!-- GitHub Trophies end-->
 
 <!-- Fun fact start-->
